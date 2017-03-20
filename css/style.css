@@ -1,0 +1,29 @@
+.banner img{
+	width: 100%;
+}
+.banner{
+	position: fixed;
+}
+.col-md-12{
+	margin-top: 250px;
+	background: #0f0f0a;
+}
+.navi{
+	background: #221B1C;
+	border: 1px solid black;
+}
+.navi a{
+	color: white;
+}
+h3{
+	color: orange;
+	background: #2e2e1f;;
+
+}
+.libcontainer{
+	border: 1px solid gray;
+	background: #2e2e1f;
+}
+.rowe img:hover{
+	border: 2px solid black;
+}
